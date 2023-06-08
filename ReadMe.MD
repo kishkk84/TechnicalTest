@@ -23,3 +23,7 @@ To run the tests use any one approach from the following :
 - Right click TestRunner and choose run scenario option from the context menu.
 - OR
 - Using terminal use the command `./gradlew test`
+
+### Reports
+To view the cucumber report, please navigate to `./build/reports/tests/` and 
+open the `cucumber.html` in your favourite browser.
